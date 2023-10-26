@@ -43,7 +43,4 @@ def check_proxy_enabled():
     return proxy_enable == 1
 
 if __name__ == "__main__":
-    
-
-
-
+    rotate_proxy_settings()

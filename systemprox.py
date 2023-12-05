@@ -13,7 +13,6 @@ def disable_proxy():
     except Exception as e:
         print("Error!!", e)
 
-
 #enabling proxy
 def enable_proxy():
     try:
